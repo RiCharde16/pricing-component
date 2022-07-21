@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Interactive pricing component
 
 ![Design preview for the Interactive pricing component coding challenge](./design/desktop-preview.jpg)
@@ -103,3 +104,7 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# pricing-component
+FrontMentor Desafio com HTML, CSS e Javascript
+>>>>>>> b9d5839843db2cb569ed213d5042e0249e6c7f3f
