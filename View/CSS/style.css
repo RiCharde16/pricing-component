@@ -87,7 +87,6 @@ input[type="range"]{
     /* background-color: hsl(224, 65%, 95%); */
     background: linear-gradient(90deg, hsl(174, 86%, 45%) 1%, hsl(224, 65%, 95%) 10%);
     position: relative;
-    z-index: 2;
     margin: 50px 0px;
     /* width: 100%; */
     width: 100%;
@@ -98,7 +97,7 @@ input[type="range"]{
 input[type="range"]::-webkit-slider-thumb{
     -webkit-appearance: none;
     /* appearance: ur; */
-    background-image: url('/View/images/icon-slider.svg');
+    background-image: url('../images/icon-slider.svg');
     background-repeat: no-repeat;
     background-position: center;
     width: 40px;
@@ -151,7 +150,7 @@ main{
     color:hsl(225, 20%, 90%);
 }
 main ul li{
-    list-style: url('/View/images/icon-check.svg');
+    list-style: url('../images/icon-check.svg');
     padding: 5px 10px;
 }
 #block{
