@@ -83,6 +83,7 @@ header h4{
 /* Slider bar */
 input[type="range"]{
     -webkit-appearance: none;
+    appearance: none;
     /* padding: 10px; */
     /* background-color: hsl(224, 65%, 95%); */
     background: linear-gradient(90deg, hsl(174, 86%, 45%) 1%, hsl(224, 65%, 95%) 10%);
